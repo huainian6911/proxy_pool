@@ -60,7 +60,7 @@ PROXY_FETCHER = [
 
 # ############# proxy validator #################
 # 代理验证目标网站
-HTTP_URL = "http://httpbin.org"
+HTTP_URL = "http://httpbin.org/get/"
 
 HTTPS_URL = "https://www.qq.com"
 
